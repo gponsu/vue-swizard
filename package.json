@@ -1,6 +1,6 @@
 {
   "name": "vue-swizard",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Vue component for building a simple multi steps interfaces.",
   "main": "dist/vue-swizard.umd.js",
   "author": "Vicente Pons <vicentepons.rb@gmail.com>",
