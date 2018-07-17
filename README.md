@@ -12,7 +12,7 @@ npm install --save vue-swizard
 
 ```html
 <swizard>
-  <template slot-scope="{ next, prev }">
+  <div slot-scope="{ next, prev }">
     <swizard-steps>
       <swizard-step>
         step 1
@@ -29,9 +29,11 @@ npm install --save vue-swizard
       <button @click="prev">back</button>
       <button @click="next">next</button>
     </swizard-navigation>
-  </template>
+  </div>
 </swizard>
 ```
+
+[![Edit Vue Simple Wizard](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/0or7m2vn5w?autoresize=1&fontsize=16&hidenavigation=1&module=%2Fsrc%2FApp.vue)
 
 ## Settings
 

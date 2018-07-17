@@ -5,6 +5,7 @@
   "main": "dist/vue-swizard.umd.js",
   "author": "Vicente Pons <vicentepons.rb@gmail.com>",
   "license": "MIT",
+  "repository": "gponsu/vue-swizard",
   "module": "dist/vue-swizard.common.js",
   "unpkg": "dist/vue-swizard.umd.min.js",
   "scripts": {
