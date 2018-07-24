@@ -1,5 +1,7 @@
 # Vue Simple Wizard
 
+[![Build Status](https://travis-ci.com/gponsu/vue-swizard.svg?branch=master)](https://travis-ci.com/gponsu/vue-swizard)
+
 Vue component for building a simple multi steps interfaces.
 
 ## Installation
