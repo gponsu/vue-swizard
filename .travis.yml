@@ -5,6 +5,10 @@ services:
 
 install:
   - make install
+  - npm install -g codecov
 
 script:
   - make test
+
+after_success:
+  - codecov

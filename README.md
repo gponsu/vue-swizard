@@ -1,6 +1,6 @@
 # Vue Simple Wizard
 
-[![Build Status](https://travis-ci.com/gponsu/vue-swizard.svg?branch=master)](https://travis-ci.com/gponsu/vue-swizard)
+[![Build Status](https://travis-ci.com/gponsu/vue-swizard.svg?branch=master)](https://travis-ci.com/gponsu/vue-swizard) [![codecov](https://codecov.io/gh/gponsu/vue-swizard/branch/master/graph/badge.svg)](https://codecov.io/gh/gponsu/vue-swizard)
 
 Vue component for building a simple multi steps interfaces.
 
